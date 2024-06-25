@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XDanielPaul
 - 👀 I’m interested in Information systems and Databases
-- 🎓 Currently studying major at VUT FIT
+- 🎓 Finished major at VUT FIT
 - 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: daniel@paul.sk
